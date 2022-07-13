@@ -1,0 +1,8 @@
+{
+  "filename": "SampleWebTest.zip",
+  "channels": "responsive_web",
+  "upgradable": false,
+  "displayname": "SampleWebTest",
+  "description": "'Binary for SampleWebTest'",
+  "version": "1.0.0"
+}
